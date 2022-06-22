@@ -1,0 +1,21 @@
+h2{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bold;
+    color: #f9bc14;
+}
+
+thead{
+    background-color: rgb(3, 73, 119) !important;
+    border-bottom: 2px solid #f9bc14;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+
+}
+.table{
+    margin-top: 5%;
+    border: 2px solid rgb(3, 73, 119);
+    border-radius: 10px !important;
+    box-shadow: 0px 2px 10px black;
+}

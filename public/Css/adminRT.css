@@ -1,0 +1,32 @@
+
+thead{
+    background-color: rgb(3, 73, 119) !important;
+    border-bottom: 2px solid #f9bc14;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+
+}
+.row{
+    margin: 1px;
+    margin-top: 2%;
+}
+table{
+    width: 100%;
+}
+.modal-dialog{
+	width: 100%;
+    overflow: hidden;
+}
+/* .list-group{
+    margin-top: 2%;
+} */
+.headList{
+    background-color: rgb(3, 73, 119) !important;
+}
+.list-group,.table{
+    border:1px solid #f9bc14;
+    border-radius: 5px;
+    margin-bottom: 5px;
+
+}
+

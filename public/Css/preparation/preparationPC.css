@@ -1,0 +1,63 @@
+.container{
+    margin-top: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+thead{
+    background-color: rgb(3, 73, 119) !important;
+    border-bottom: 2px solid #f9bc14;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+
+}
+.table{
+    border: 2px solid rgb(3, 73, 119);
+    border-radius: 10px !important;
+    box-shadow: 0px 2px 10px black;
+}
+
+
+.btn-registre{
+    border:2px solid rgb(3, 73, 119);
+}
+.btn-registre:hover{
+        background-color:rgb(3, 73, 119);
+        box-shadow: 0px 0px 0px black;
+        color: white !important;
+        transition: .5 all ease;
+
+}
+.line{
+    opacity: 0.7;
+    border-bottom: 2px solid rgb(3, 73, 119);
+    background-color: white;
+
+}
+
+tr{
+    cursor: pointer;
+}
+.detaille{
+    background-color: #f9bc14;
+
+}
+a{
+    color:white !important;
+
+}
+.btns a{
+    text-decoration: none;
+    opacity: 1 !important;
+    margin-top: 2% !important;
+}
+.btns a:hover{
+    text-decoration: none;
+}
+.btns button{
+    margin-top: 5%;
+}
+
+.btns button:hover{
+    color:#f9bc14 ;
+    text-shadow: 0px 0px 5px #f9bc14;
+}

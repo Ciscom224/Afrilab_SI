@@ -1,0 +1,32 @@
+
+    .btns .btn{
+        border:2px solid rgb(3, 73, 119) !important;
+        width:25%;
+        font-size:25px !important;
+
+    }
+    .valide:hover{
+    background-color:rgb(3, 73, 119);
+    box-shadow: 0px 0px 0px black;
+    color: #f9bc14 !important;
+    transition: .5 all ease;
+    }
+    .danger:hover{
+    background-color:#df4759;
+    box-shadow: 0px 0px 0px black;
+    color: #f9bc14 !important;
+    border: 2px solid #df4759 !important; 
+    transition: .5 all ease;
+    }
+    thead{
+    background-color: rgb(3, 73, 119) !important;
+    border-bottom: 2px solid #f9bc14;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+
+    }
+    .table{
+    border: 2px solid rgb(3, 73, 119);
+    border-radius: 10px !important;
+    box-shadow: 0px 2px 10px black;
+}
